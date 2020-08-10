@@ -1,0 +1,9 @@
+C:\Users\eszah\source\repos\FindFileInDirectory\FindFileInDirectory\bin\Debug\FindFileInDirectory.exe.config
+C:\Users\eszah\source\repos\FindFileInDirectory\FindFileInDirectory\bin\Debug\FindFileInDirectory.exe
+C:\Users\eszah\source\repos\FindFileInDirectory\FindFileInDirectory\bin\Debug\FindFileInDirectory.pdb
+C:\Users\eszah\source\repos\FindFileInDirectory\FindFileInDirectory\obj\Debug\FindFileInDirectory.csprojAssemblyReference.cache
+C:\Users\eszah\source\repos\FindFileInDirectory\FindFileInDirectory\obj\Debug\FindFileInDirectory.Properties.Resources.resources
+C:\Users\eszah\source\repos\FindFileInDirectory\FindFileInDirectory\obj\Debug\FindFileInDirectory.csproj.GenerateResource.cache
+C:\Users\eszah\source\repos\FindFileInDirectory\FindFileInDirectory\obj\Debug\FindFileInDirectory.exe
+C:\Users\eszah\source\repos\FindFileInDirectory\FindFileInDirectory\obj\Debug\FindFileInDirectory.pdb
+C:\Users\eszah\source\repos\FindFileInDirectory\FindFileInDirectory\obj\Debug\FindFileInDirectory.Form1.resources
